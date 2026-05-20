@@ -115,9 +115,3 @@ This project is licensed under the MIT License – free to use, modify, and dist
 
 Issues, suggestions, and pull requests are welcome!
 Feel free to open an issue or contact the maintainer.
-
----
-
-🌐 Lin
-🌐 LinktHub Repository
-· Report an Issue
